@@ -1,56 +1,93 @@
-"sentence,""sentiment""RT @jerome_corsi: FIRE THESE DANGEROUS LUNATICS: FBI Investigated Whether President Trump Was Russian Agent After Comey Firing (VIDEO) httpÖ, Negative
-"RT @jdawsey1: ìIím a very honest person,î Trump said tonight on Fox. From WaPo last month: ìBy the end of the year, Trump had accumulated mÖ", Positive
-"RT @ABC: JUST IN: A majority of Americans hold Pres. Trump and congressional Republicans mainly responsible for the government shutdown, neÖ", Positive
-"RT @realTylerZed: Actual headlines from ìnewsî outlet, Vox Media:
+"sentence,""sentiment""
+RT @jerome_corsi: FIRE THESE DANGEROUS LUNATICS: FBI Investigated Whether President Trump Was Russian Agent After Comey Firing (VIDEO) http‚Ä¶, Negative
 
-September 11th, 2016: ìThe TSA is a waste of money that doesnít save livÖ", Negative
+"RT @jdawsey1: ‚ÄúI‚Äôm a very honest person,‚Äù Trump said tonight on Fox. From WaPo last month: ‚ÄúBy the end of the year, Trump had accumulated m‚Ä¶", Positive
+
+"RT @ABC: JUST IN: A majority of Americans hold Pres. Trump and congressional Republicans mainly responsible for the government shutdown, ne‚Ä¶", Positive
+
+"RT @realTylerZed: Actual headlines from ‚Äúnews‚Äù outlet, Vox Media:
+
+September 11th, 2016: ‚ÄúThe TSA is a waste of money that doesn‚Äôt save liv‚Ä¶", Negative
+
 "RT @patrickLSimpson: Thread: Something rotten is going on with this lobbyist -Michael Esposito.
 
-He was involved with SCL group, the ClintoÖ", Positive
-"RT @BettyBowers: Tonight, Jeanine Pirro doing for free what it cost Trump $130,000 for Stormy Daniels to do him. https://t.co/b2et0WqMxz", Positive
-"RT @CREWcrew: President Trump has gone to extraordinary lengths to conceal details of his conversations with Vladi≠mir Putin, including repÖ", Positive
+He was involved with SCL group, the Clinto‚Ä¶", Positive
+
+"RT @BettyBowers: Tonight, Jeanine Pirro doing for free what it cost Trump $130,000 for Stormy Daniels to do him. https://t.co/b2et0WqMxz", Positive
+
+"RT @CREWcrew: President Trump has gone to extraordinary lengths to conceal details of his conversations with Vladi¬≠mir Putin, including rep‚Ä¶", Positive
+
 "RT @keithboykin: Another poll shows Americans blame Trump for #TrumpShutdown. 
 
-Canít blame Democrats when (a) Trump admitted in the Oval OÖ", Positive
+Can‚Äôt blame Democrats when (a) Trump admitted in the Oval O‚Ä¶", Positive
+
 "RT @sarahkendzior: Other reasons for the sycophantic praise may be more nefarious. Namely:
 1) Blackmail over personal life
-2) Threats to faÖ", Positive
-"RT @RadioFreeTom: Trump: They should look into Cohenís father-in-law, thereís a huge story there
-Pirro: whatís the father-in-lawís name?
-TrÖ", Positive
-RT @mitchellvii: President Trump even offered to take half as much for the wall and the same Democrats who voted $42 billion for the wall iÖ, Positive
-"RT @CNNPolitics: ìI think history will show that Donald Trump, the supposed great deal makerÖbusiness schools and management consultants wiÖ", Positive
-"Bahahahaha! Typical uninformed indoctrinated students / WATCH: Students Harshly Condemn ëTrumpí Immigration Quotes,Ö https://t.co/q5Fa7o0IMw", Negative
-"@Finance8244 @guardian Blame didnít need to be shifted. President gladly assumed blame.  Of course, Trump did say dÖ https://t.co/5Q3Vcov4Df", Positive
-RT @tonyschwartz: There is now overwhelming circumstantial evidence that Trump conspired and colluded with Vladimir Putin and the Russian gÖ, Positive
-RT @MiriamBrett: This is the grim reality of the archaic ëgentlemanís agreementí that means America chooses the World Bank president. ThisÖ, Negative
-RT @Harryslaststand: If #DonaldTrump appointed Ivanka President of the World Bank; it would be the 21st century equivalent of when CaligulaÖ, Positive
-@GreenPeaches2 @RyanHillMI @realDonaldTrump @FoxNews @JesseBWatters @greggutfeld @HouseIntelComm No.. But your TrumÖ https://t.co/7Qp8kRO1ob, Positive
-RT @robreiner: Like Nixon the GOP will turn on Trump. Itís just a matter of time., Positive
-"RT @RBReich: McConnell could bring funding bill to floor, free GOP caucus to support it and get enough votes to override a Trump veto. RecaÖ", Positive
+2) Threats to fa‚Ä¶", Positive
+
+"RT @RadioFreeTom: Trump: They should look into Cohen‚Äôs father-in-law, there‚Äôs a huge story there
+Pirro: what‚Äôs the father-in-law‚Äôs name?
+Tr‚Ä¶", Positive
+
+RT @mitchellvii: President Trump even offered to take half as much for the wall and the same Democrats who voted $42 billion for the wall i‚Ä¶, Positive
+
+"RT @CNNPolitics: ‚ÄúI think history will show that Donald Trump, the supposed great deal maker‚Ä¶business schools and management consultants wi‚Ä¶", Positive
+
+"Bahahahaha! Typical uninformed indoctrinated students / WATCH: Students Harshly Condemn ‚ÄòTrump‚Äô Immigration Quotes,‚Ä¶ https://t.co/q5Fa7o0IMw", Negative
+
+"@Finance8244 @guardian Blame didn‚Äôt need to be shifted. President gladly assumed blame.  Of course, Trump did say d‚Ä¶ https://t.co/5Q3Vcov4Df", Positive
+
+RT @tonyschwartz: There is now overwhelming circumstantial evidence that Trump conspired and colluded with Vladimir Putin and the Russian g‚Ä¶, Positive
+
+RT @MiriamBrett: This is the grim reality of the archaic ‚Äògentleman‚Äôs agreement‚Äô that means America chooses the World Bank president. This‚Ä¶, Negative
+
+RT @Harryslaststand: If #DonaldTrump appointed Ivanka President of the World Bank; it would be the 21st century equivalent of when Caligula‚Ä¶, Positive
+
+@GreenPeaches2 @RyanHillMI @realDonaldTrump @FoxNews @JesseBWatters @greggutfeld @HouseIntelComm No.. But your Trum‚Ä¶ https://t.co/7Qp8kRO1ob, Positive
+
+RT @robreiner: Like Nixon the GOP will turn on Trump. It‚Äôs just a matter of time., Positive
+
+"RT @RBReich: McConnell could bring funding bill to floor, free GOP caucus to support it and get enough votes to override a Trump veto. Reca‚Ä¶", Positive
+
 "RT @DFBHarvard: I have 3 questions tonight.
 
 1. Where the Hell are all the Spineless Republican Senators?
 
-2. Why aren't they speaking outÖ", Positive
-RT @nowthisnews: ëIs this how you make America great again?í ó Sen. Jon Tester held nothing back in his impassioned speech against TrumpísÖ, Positive
-RT @MollyJongFast: Oh look a federal worker canít afford her incelin because trump is holding the country hostage in the hopes of getting fÖ, Positive
-"RT @D_PlaidShirtGuy: Thanks to Donald Trump &amp; his sycophants, increasing numbers of Americans &amp; the rest of the world now view our IntelligÖ", Positive
-"RT @BetteMidler: #Trump says he's a ""professional at technology."" I think that means that he knows how to find the Twitter icon on his phonÖ", Positive
+2. Why aren't they speaking out‚Ä¶", Positive
+
+RT @nowthisnews: ‚ÄòIs this how you make America great again?‚Äô ‚Äî Sen. Jon Tester held nothing back in his impassioned speech against Trump‚Äôs‚Ä¶, Positive
+
+RT @MollyJongFast: Oh look a federal worker can‚Äôt afford her incelin because trump is holding the country hostage in the hopes of getting f‚Ä¶, Positive
+
+"RT @D_PlaidShirtGuy: Thanks to Donald Trump &amp; his sycophants, increasing numbers of Americans &amp; the rest of the world now view our Intellig‚Ä¶", Positive
+
+"RT @BetteMidler: #Trump says he's a ""professional at technology."" I think that means that he knows how to find the Twitter icon on his phon‚Ä¶", Positive
+
 "RT @tribelaw: Consciousness of guilt:
 
-https://t.co/zktzAakGXX", Positive
-"Da drauﬂen hocken 3 Kinders am Ger‰t und spielen Mario Kart 8.
+https://t.co/zktzAakGXX", Positive
 
-Die Stimmung schwankt zwischen Lokalderby und Trump.", Positive
-RT @psychdr100: Trump will not deny he is an agent of Russia. Donald Trump rages about being 'insulted' but won't deny being a Russian agenÖ, Positive
-RT @seduloussteve: @AshaRangappa_ Just think of what an intelligence coup it would be if the FBI could flip Donald Trump to work as a spy fÖ, Positive
-"RT @SaysHummingbird: McConnell calls votes to get workers their pay ëabsolutely pointlessí
+"Da drau√üen hocken 3 Kinders am Ger√§t und spielen Mario Kart 8.
 
-What would be your reply to this waste of spaceÖ", Negative
-"RT @tribelaw: Trumpís deliberate coverup of all his exchanges with Putin, right down to grabbing and destroying his translatorís notes, amoÖ", Negative
-RT @nowthisnews: Republicans hammered Obama for 'overreach' but have nothing to say when Trump threatens to declare an emergency to build hÖ, Positive
-"RT @RepAdamSchiff: Trumpís shutdown is now the longest in U.S. history. Last week, I asked that my salary go unpaid until this ends and fedÖ", Positive
-"RT @katierogers: Whites without college degrees still want a wall, but their disapproval of the president is growing and they are beginningÖ", Positive
-"RT @djrothkopf: With all the facts against him, the only battle that Trump can possibly win is the battle for public opinion.  With that noÖ", Positive
-"RT @JohnJHarwood: new CNN poll on how Americans view Trumpís performance as president: 37% approve, 57% disapprove", Positive
+Die Stimmung schwankt zwischen Lokalderby und Trump.", Positive
+
+RT @psychdr100: Trump will not deny he is an agent of Russia. Donald Trump rages about being 'insulted' but won't deny being a Russian agen‚Ä¶, Positive
+
+RT @seduloussteve: @AshaRangappa_ Just think of what an intelligence coup it would be if the FBI could flip Donald Trump to work as a spy f‚Ä¶, Positive
+
+"RT @SaysHummingbird: McConnell calls votes to get workers their pay ‚Äòabsolutely pointless‚Äô
+
+What would be your reply to this waste of space‚Ä¶", Negative
+
+"RT @tribelaw: Trump‚Äôs deliberate coverup of all his exchanges with Putin, right down to grabbing and destroying his translator‚Äôs notes, amo‚Ä¶", Negative
+
+RT @nowthisnews: Republicans hammered Obama for 'overreach' but have nothing to say when Trump threatens to declare an emergency to build h‚Ä¶, Positive
+
+"RT @RepAdamSchiff: Trump‚Äôs shutdown is now the longest in U.S. history. Last week, I asked that my salary go unpaid until this ends and fed‚Ä¶", Positive
+
+"RT @katierogers: Whites without college degrees still want a wall, but their disapproval of the president is growing and they are beginning‚Ä¶", Positive
+
+"RT @djrothkopf: With all the facts against him, the only battle that Trump can possibly win is the battle for public opinion.  With that no‚Ä¶", Positive
+
+"RT @JohnJHarwood: new CNN poll on how Americans view Trump‚Äôs performance as president: 37% approve, 57% disapprove", Positive
+
