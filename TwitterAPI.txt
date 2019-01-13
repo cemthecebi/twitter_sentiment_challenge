@@ -1,5 +1,0 @@
-consumer_key= '2pP0uo5FUcuclEHe9Ra0e8Tkp'
-consumer_secret= 'mWTjuNLPLHm7ohgRCQemXn4ZnRJvChmnHwZiIMjrIGtYVhLa86'
-
-access_token='1658743320-fAaVKD7cDiZPgCuvOtiymgubWQ1rJyYwuNWaOcH'
-access_token_secret='wju1cGkFwK9yookVSaCBXakscxaoCbLS4HDtIXBGQjChP'
